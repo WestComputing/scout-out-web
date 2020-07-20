@@ -1,1 +1,2 @@
-# scout-out
+# ScoutOut
+Web front-end
